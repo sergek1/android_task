@@ -10,4 +10,6 @@
 
 Для чтения данных JSON формата использовалась библиотека 'com.google.code.gson:gson:2.8.9'
 
+Также добавлен apk-файл app-debug.apk
+
 ![alt text](screen.png "Title")
