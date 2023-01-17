@@ -10,4 +10,4 @@
 
 Для чтения данных JSON формата использовалась библиотека 'com.google.code.gson:gson:2.8.9'
 
-![alt text](Снимок экрана (975).png "Title")
+![alt text](screen.png "Title")
